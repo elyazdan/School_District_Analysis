@@ -1,5 +1,5 @@
 # School District Broad Analysis
-In this project, school board data is analysis based on math & reading score. 
+In this training project, school board data is analysis based on math & reading score. 
  There are two data resources csv formats; school data & student data. First of all, we made pandas DataFrame of each resources by the below code;
 
 		 - school_data_df = pd.read_csv(school_data_to_load)
